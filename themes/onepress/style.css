@@ -728,7 +728,6 @@ Footer widgets
 ------------------------------*/
 .site-header {
   line-height: 75px;
-  position: relative;
   width: 100%;
   background: #FFFFFF;
   z-index: 1000;
